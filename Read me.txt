@@ -1,0 +1,17 @@
+Accounts Payable Management Project
+Overview
+This project is the result of my commitment to continuous learning and professional development after completing my graduation and undergoing an offline training course. Spanning from November 2023 to January 2024, the project is tailored to showcase my skills in the accounts payable domain.
+
+Project Highlights
+Comprehensive Training Background: Completed after rigorous offline training courses and graduation, this project reflects the fusion of academic knowledge and practical skills.
+
+Duration: The project was undertaken between November 2023 and January 2024, emphasizing the dedication and time invested in its development.
+
+Excel Sheet Integration: The project features an Excel sheet encompassing vendor data and an ageing report, providing a centralized and organized view for efficient accounts payable management.
+
+Diverse Transactions: It includes handling various transactions such as vendor invoices, purchase orders, goods receipt notes, sales quotations, sales orders, delivery receipt notes, customer invoices, covering a wide spectrum of accounts payable processes.
+
+Fiscal Year Dashboard: The project incorporates a comprehensive fiscal year dashboard, meticulously managed in Zoho Books and Tally Prime, showcasing a holistic view of financial data.
+
+Purpose
+This project serves as a practical demonstration of my expertise in accounts payable, combining theoretical knowledge with hands-on experience. It stands as a testament to my commitment to professional growth and proficiency in managing diverse aspects of accounts payable processes.
